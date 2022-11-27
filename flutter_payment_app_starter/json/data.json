@@ -1,0 +1,28 @@
+[
+    {
+        "brand":"Shahmeer Power",
+        "date":"12-10-2022",
+        "status":false,
+        "due":"1280.00",
+        "more":"pay before",
+        "images":"images/brand1.png"
+    },
+    {
+        "brand":"Tech Power",
+        "date":"11-11-2022",
+        "status":false,
+        "due":"3280.00",
+        "more":"must pay now",
+        "images":"images/brand2.png"
+
+    },
+    {
+        "brand":" Power",
+        "date":"13-12-2022",
+        "status":false,
+        "due":"5280.00",
+        "more":"pay",
+        "images":"images/brand3.png"
+
+    }
+]
